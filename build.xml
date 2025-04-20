@@ -1,0 +1,5 @@
+<project name="MyProject" default="build">
+  <target name="build">
+    <echo message="Hello, Ant!"/>
+  </target>
+</project>
